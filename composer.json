@@ -1,5 +1,5 @@
 {
-    "name": "vemcogroup/laravel-sparkpost-driver",
+    "name": "dyanakiev/laravel-sparkpost-driver",
     "description": "SparkPost driver to use with Laravel 6.x|7.x|8.x",
     "keywords": [
         "mail",
